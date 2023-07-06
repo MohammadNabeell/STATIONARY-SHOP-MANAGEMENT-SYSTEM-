@@ -1,6 +1,7 @@
 # STATIONARY-SHOP-MANAGEMENT-SYSTEM-
 
 STATIONARY SHOP Management: With the use of C# and database access,  The system allows the shop to keep track of available stock, monitor stock levels, and automatically update inventory records as items are purchased or restocked, ensuring accurate stock management.
+![Screenshot (12)](https://github.com/MohammadNabeell/STATIONARY-SHOP-MANAGEMENT-SYSTEM-/assets/138374517/c95cda0d-ce60-479d-9690-216e96cc1a64)
 
 ![Screenshot (11)](https://github.com/MohammadNabeell/STATIONARY-SHOP-MANAGEMENT-SYSTEM-/assets/138374517/8e0bb846-2a00-46a1-8aa3-54b32655d5b2)
 ![Screenshot (17)](https://github.com/MohammadNabeell/STATIONARY-SHOP-MANAGEMENT-SYSTEM-/assets/138374517/b3076a8b-1279-4195-9643-5c03ae2878b5)
